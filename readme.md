@@ -1,12 +1,3 @@
-/mi_proyecto
-  ├── bin
-  ├──  └── ffmpeg
-  ├── .env
-  ├── bot.py     
-  ├── requirements.txt       
-
-
-
 # Discord Music Bot
 
 Este es un bot de Discord para reproducir música en canales de voz. Utiliza **yt-dlp** para buscar y reproducir canciones desde YouTube y otros servicios. Puedes controlar la reproducción de la música con comandos como **play**, **pause**, **skip**, **stop**, entre otros.
