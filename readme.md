@@ -19,7 +19,7 @@ Este es un bot de Discord para reproducir música en canales de voz. Utiliza **y
    pip install -r requirements.txt
 
 2. Crea un archivo .env en la raíz del proyecto con el siguiente contenido:
-  ```bash
+   ```bash
    DISCORD_TOKEN=tu_token_aqui
 
 
