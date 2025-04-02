@@ -22,5 +22,15 @@ Este es un bot de Discord para reproducir música en canales de voz. Utiliza **y
    ```bash
    DISCORD_TOKEN=tu_token_aqui
 
+## Licencia
 
+Este proyecto está bajo la licencia [MIT License](./LICENSE.txt).
+
+   ```bash
+
+   Solo recuerda que este texto debe ir en el archivo `LICENSE` para mantener la claridad del
+   proyecto. De este modo, la licencia queda clara tanto en el `README.md` como en el archivo
+   de la propia licencia.
+
+   ¡Todo está muy bien hecho! 🙌
 
