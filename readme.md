@@ -28,6 +28,5 @@ Este proyecto está bajo la licencia [MIT License](./LICENSE.txt).
 
    ```bash
 
-   La licencia queda clara en el archivo de la propia licencia.
-   🙌
+   La licencia queda clara en el archivo de la propia licencia. 🙌
 
