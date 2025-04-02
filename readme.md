@@ -24,9 +24,8 @@ Este es un bot de Discord para reproducir música en canales de voz. Utiliza **y
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT License](./LICENSE.txt).
+1. Este proyecto está bajo la licencia [MIT License](./LICENSE.txt).
 
    ```bash
-
    La licencia queda clara en el archivo de la propia licencia. 🙌
 
